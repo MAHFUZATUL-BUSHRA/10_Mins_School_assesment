@@ -1,1 +1,3 @@
 # 10_Mins_School_assesment
+live link Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiYjE2ZDczNmItM2FmZC00OWRhLWE5OWMtZjg3OWVkMDAyNmRiIiwidCI6Ijg0YjE4N2QzLTIzYWYtNDAzNS1hZTgyLWQ0NmM0NDVmY2FjNSIsImMiOjEwfQ%3D%3D&pageName=ba5228b708323c23e533
